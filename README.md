@@ -10,4 +10,4 @@ To underline the map and countries, a helper file countries.geo.json was used. I
 
 This is an example of what the program displays:
 
-![Life Expectancy](https://cdn.rawgit.com/bruno78/life-expectancy-map/0458d1e9/data/lifeExpectancyMap.png? raw=true)
+![Life Expectancy](https://cdn.rawgit.com/bruno78/life-expectancy-map/0458d1e9/data/lifeExpectancyMap.png "Life Expectancy map")
