@@ -1,4 +1,4 @@
-package module3;
+package lifeExpectancy;
 import processing.core.PApplet;
 import de.fhpotsdam.unfolding.*;
 import de.fhpotsdam.unfolding.data.Feature;
